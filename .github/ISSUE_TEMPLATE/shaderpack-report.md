@@ -1,5 +1,5 @@
 ---
-name: Shaderpack Report Template
+name: Shaderpack Report
 about: Template to report the state of shaders
 title: ''
 labels: unmanaged
@@ -13,7 +13,9 @@ assignees: ''
 
 #### Iris Version : *(e.g. 1.0.0 or 1.2.1)*
 
-*Describe the current shaderpack state here.*
+#### Status : *(e.g. Crashes on world load)*
+
+*Detailed description of the shaderpack status.*
 
 #### Hardware Specs : 
 
