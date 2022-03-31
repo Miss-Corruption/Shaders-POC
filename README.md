@@ -7,7 +7,7 @@ Anyone is free to update or share their results here, with the following require
 
 When you update or add additional information in an issue, please reply to the issue indicating your changes.
 
-A curator will apply appropriate labels to the issue. Our criteria may be a tad more stringent than some other emulator compatibility lists (and this may eventually change one day) but, for now, see the status label cheat sheet.  
+A curator will apply appropriate labels to the issue. Our criteria may be a tad more stringent than some other mod compatibility lists (and this may eventually change one day) but, for now, see the status label cheat sheet.  
 
 **Status label cheat sheet**:
 - `status-playable` - Boots and plays without any crashes or gpu bugs of any kind, and at a speed fast enough to reasonably enjoy on an average PC. 
