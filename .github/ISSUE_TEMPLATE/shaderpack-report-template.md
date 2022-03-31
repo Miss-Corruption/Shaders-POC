@@ -19,6 +19,7 @@ assignees: ''
 
 ##### CPU: *(e.g. i7-6700)*
 ##### GPU: *(e.g. NVIDIA RTX 2070)*
+##### GPU Driver Version: *(e.g. 512.15)*
 ##### RAM: *(e.g. 16GB)*
 
 #### Outstanding Issues:
