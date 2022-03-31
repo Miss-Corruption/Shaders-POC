@@ -1,6 +1,0 @@
-- uses: stefanbuck/github-issue-parser@v2
-  id: issue-parser
-  with:
-    template-path: .github/ISSUE_TEMPLATE/shaderpack-report-template.yml
-
-- run: echo '${{ steps.issue-parser.outputs.jsonString }}' > shaderpack-details.json
